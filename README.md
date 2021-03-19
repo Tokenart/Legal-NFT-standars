@@ -63,3 +63,81 @@ It is explained in a language appreciated by the creators of the non-legal resea
 1 readable by blockchain
 It translates into code certain requirements specific to the right chosen by the author, such as reserving a percentage each time the NFT is sold
 
+Here are the Tokenart possible combination for NFT copyright representation : 
+
+* Digital NFT : TA-DI
+
+Basic NFT for creator artwork. Only the NFT linked to the Digital artwork is represented by the NFT. Nothing change with traditional NFT except that creator register his IP right & benefits of Tokencop protection. 
+
+This is totally compatible with CC
+
+* Physical NFT : TA-PH
+
+The NFT only represent the ownership over the physical described artwork. No other Intellectual property right are represented by the NFT. This means that the NFT is linked to the physical creation and the seller engage himself to deliver the physical piece when the NFT is bought. 
+
+This is totally compatible with CC
+
+* Exclusively and Totally represented by NFT : TA-ETOTAL
+
+All of the creators right over his creation are exclusively represented by one or more NFT that creator creates. 
+
+This is not compatible with CC
+
+* Unexclusively and Totally represented by NFT - TA-UTOTAL
+
+All of the creators right over his creation are Unexclusively represented by one or more NFT that creator creates and he share all the right with the NFT owner. 
+
+This is not compatible with CC
+
+* Exclusive right of commercial use - TA-ECU
+
+
+The commercial use is Exclusively represented by one or more NFT that creator creates and only the NFT owner can exploit it. This means that once creator’s NFT is sold the creator prevent himself to use his artwork for commercial use. 
+
+It can be mixed with : CC-BY-NC ; CC-BY-NC-SA ; CC-BY-NC-ND
+
+* Unexclusive right of commercial use - TA-UCU
+
+The commercial use is Unexclusively represented by one or more NFT that creator creates. The commercial use is shared between the creators and the NFT owner. 
+This means that once creator’s NFT is sold he keep his commercial use but share it with any other NFT owners.
+
+It can be mixed with the follwoing Creative Common : CC-BY-NC ; CC-BY-NC-SA ; CC-BY-NC-ND
+
+* Exclusive right of modification and sharing / using modification - TA-EM 
+
+
+The creation modification right is Exclusively represented by one or more NFT that creator creates and only the NFT owner can modify your creation. 
+
+It can be mixed with : CC-BY-NC-ND / CC-BY-ND
+
+* Unexclusive right of modification and sharing / using modification - TA-UM
+
+The creation modification right is Unexclusively represented by one or more NFT that creator creates. The modification right is shared between the creator and the NFT owner. 
+
+It can be mixed with : CC-BY-NC-ND / CC-BY-ND
+
+* Exclusive right of modification and commercial use - TA-ECU-EM
+
+The commercial use and modification right is Exclusively represented by one or more NFT that creator creates and only the NFT owner can commercially exploit or modify the creation. 
+
+It can be mixed with : CC-BY-NC-ND
+
+* Unexclusive right of modification and commercial use - TA-UCU-UM
+
+The commercial use and modification right is Unexclusively represented by one or more NFT that creator creates and he shares the commercial exploitation and modification right with the owner of the NFT. 
+
+It can be mixed with : CC-BY-NC-ND
+
+* Exclusive right of commercial use and Unexclusive right of modification - TA-ECU-UM 
+
+The commercial use is Exclusively represented by one or more NFT that creator creates and only the NFT owner can commercially exploit or modify the creation. The modification right is Unexclusively represented by one or more NFT that creator creates and he share the commercial exploitation and modification right with the owner of the NFT. 
+
+It can be mixed with : CC-BY-NC-ND
+
+
+* Unexclusive right of commercial use and Exclusive right of modification - TA-UCU-EM
+
+The commercial use is Unexclusively represented by one or more NFT that the creator creat and he share the commercial exploitation and modification right with the owner of the NFT but the Modification right is exclusively represented by the NFT. 
+
+It can be mixed with : CC-BY-NC-ND
+
