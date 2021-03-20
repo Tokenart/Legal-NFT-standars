@@ -1,0 +1,45 @@
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 1rem;
+  border-bottom: 1px solid lightgrey;
+}
+
+.nav__logo {
+  margin-left: 2rem;
+}
+
+.nav__right {
+  display: flex;
+  align-items: center;
+  margin-right: 2rem;
+}
+
+.nav__link {
+  margin-right: 2rem;
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 400;
+  color: black;
+}
+
+.nav__link:hover {
+  color: #0c6ff9;
+}
+
+.nav__btn {
+  outline: none;
+  padding: 1rem;
+  background: #0c6ff9;
+  border-color: transparent;
+  border-radius: 2rem;
+  font-weight: 600;
+  color: #fff;
+  box-shadow: 0 0.125rem 0 rgb(65 61 69 / 20%);
+}
+
+.nav__btn:hover {
+  background: #084fff;
+  cursor: pointer;
+}
