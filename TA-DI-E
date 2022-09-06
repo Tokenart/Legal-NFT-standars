@@ -1,0 +1,69 @@
+ Contract ID : TA-DI
+Standard Digital NFT Agreement
+THIS PUBLIC LICENSE IS DEALING WITH THE USES EXPRESSLY AUTHORIZED BY THE CREATOR OF THE NFT ARTWORK (HEREAFTER “THE LICENSOR”) WHEN THE RELATED NFT CREATED BY THE CREATOR OF THE NFT ARTWORK IS TRANSFERRED, LICENSED, OFFERED OR SOLD.
+THIS AGREEMENT IS LINKED TO THE NFT AND IS TRANSFERRED ALONG WITH IT. AS A CONSEQUENCE, THE PRESENT LICENSE WILL BE TRANSFERRED ALONG WITH THE NFT IN CASE OF THE OFFER, PURCHASE, SALE OR TRANSFER OF THE NFT.
+THIS PUBLIC LICENSE SETS OUT THE CONDITIONS DEFINED BY THE CREATOR OF THE NFT ARTWORK GOVERNING THE USE OF ANY TRANSFERRED, LICENSED, OFFERED OR SOLD NFT, AS LONG AS IT INCLUDES A STATEMENT THAT THIS NFT SHALL BE GOVERNED BY THE TERMS OF THIS PUBLIC LICENSE OR IF THE NFT’S SPECIFIED METADATA INCLUDE A LINK OVER THESE TERMS.
+THEREFORE, WITHOUT OTHER ACTION, THE PERSON WHO PURCHASES OR POSSESSES THE NFT ACCEPTS TO BE BOUND BY THE TERMS OF THIS PUBLIC LICENSE.
+
+1. Definitions
+Artwork means any art, design, illustration image, drawings and more globally, any creative work.
+NFT means an unique and intangible digital identification identifying a digital file reproducing an Artwork, thanks to a cryptographically secure certificate complying with ERC-721 standard or similar, able to identify specified metadata, and located into a Public Blockchain address. The NFT and the NFT Artwork are intangibly linked.
+Specified metadata of a NFT identify what is linked to the NFT, i.e. the Artwork as well as a title, description, an illustration image, 3D videos, audio-visual, etc.
+NFT Artwork means any Artwork of any kind such as art, design, illustration, image, drawings or any creative work (this list is not exhaustive), that is digitally reproduced on electronic means such as video, audio, image, text, 3D, software etc. and that is contained in the NFT and/or the Specified metadata of a NFT.
+Public blockchain address means a crypto-asset public address associated to a private address. A Public blockchain address is controllable only by the one who knows the private key associated with it. It is used to own the NFT. A public address or public key is a cryptographic code that allows
+
+
+ a user to receive cryptocurrencies into his or her account. Everyone who owns NFT must have a unique identifier or address similar to the one you would have with a bank account.
+NFT transfer means the act of transferring the ownership of a NFT from one public blockchain address to another. This act is realized by NFT holder.
+NFT holder means the person who lawfully holds exclusive title to and ownership of the NFT. All references to ”NFT holder” include the NFT holder’s lawful permitted assignees, successors and beneficiaries. In the event of a Persistent Fork, the scope of the term “NFT holder,” and all rights granted by this Public License, except rights linked to physical good, shall be deemed expanded to include each person who lawfully holds exclusive title to and ownership of the copies of such NFTs that are included in the Persistent Fork. If applicable, You and Your also refer to the NFT holder.
+Licensor means any individual who is the creator of the Artwork included in the NFT and of the NFT Artwork or any entity holding the corresponding rights and granting this Public License as well as the rights granted by it.
+License Rights means rights granted by the Licensor to You, i.e. the NFT Holder, under the terms and conditions of use set out in this Public License, applicable to the use of the NFT Artwork by the NFT Holder.
+2. Scope of this public license
+Except as expressly granted in the terms of this Public License, the Licensor retains all rights, title, and interest in and to the NFT artwork.
+This Public License only concerns the uses that can be made by the NFT Holder for its own personal use or when a transfer of the NFT is planned.
+The exercise of the License Rights is expressly subject to the following conditions.
+The rights granted to You will be in any case limited to the ones allowed by the state of the art in the retention, transfer, registration and issuance of said NFT.
+Subject to Your continued compliance with the terms of this Public License, Licensor grants you a worldwide, non-exclusive, royalty-free license to use and display the NFT, for the duration of the copyrights protection of the NFT Artwork, on the following rights :
+
+* Reproduction of the NFT Artwork and/or Specified Metadata by any process or means recognised and/or unrecognised in current technology, for the purpose of the downloading of the NFT Artwork in all formats and all sizes;
+In this context, Licensor recognizes that copies of the NFT Artwork can be made in the case of a Persistent Fork creating copies of the NFT at different addresses. It is acknowledged and accepted that this Public License will be applicable to the copy of the NFT Artwork created in this situation.
+
+
+
+* Direct or indirect representation and communication of the NFT Artwork and/or Specified Metadata, by any communication method recognised or unrecognised currently, in particular by all analogue or digital telecommunications or IT networks, Internet and any other equivalent;
+These reproduction and representation rights are granted only in the following circumstances :
+
+
+
+ (i) for your own personal, non-commercial use;
+(ii) for the purpose of the purchase and sale of the NFT on a marketplace, this authorization being limited to the representation of an extract of the NFT Artwork and provided that the marketplace cryptographically verifies each NFT owner’s rights to display the Artwork for the purchased NFTs to ensure that only the actual owner can display the Artwork; or
+(iii) for the inclusion, involvement, or participation of the NFT as part of a third party website or application, this authorization being limited to the representation of an extract of the NFT Artwork and provided that the website/application cryptographically verifies each NFT owner’s rights to display the Artwork for the purchased NFTs to ensure that only the actual owner can display the Artwork, and provided that the Artwork is no longer visible once the owner of the purchased NFT leaves the website/application.
+3. Representations and warranties
+The Licensor hereby represents and warrants, to and for the benefit of the NFT holder, that:
+i) The Licensor had the right to create the NFT Artwork included in the NFT as well as the Specified Metadata of the NFT ;
+ii) The NFT artwork included in the Specified metadata of the NFT is an original work and that the Licensor holds the corresponding copyrights;
+iii) The NFT artwork and the Specified Metadata of the NFT do not infringe, misappropriate or otherwise violate any intellectual property or other right of any third party.
+iv) The ownership and use of the NFT and of the NFT Artwork in accordance with the terms of this Public License will be free and clear of all additional claims, encumbrances, liens and security interests of any kind.
+4. Evidence convention
+The Licensor and You agree to comply with the provisions of this article constituting the proof agreement. As part of the relationship between You and the Licensor, proof of connections, operations and transfers made on the blockchain will be established in light of the public connection logs of the blockchain hosting the NFT. You and the Licensor agree to the probative value of these connection logs. The Licensor and you expressly agree that the recordings on computer media of the blockchain hosting the NFT constitute proof of the operations carried out. Accordingly, You and the Licensor agree that these recordings are presumed reliable in the event of dispute and are admissible as evidence in court.
+5. Limitations of warranty and exclusions of liability
+
+
+ Unless otherwise specified and to the extent possible, the Licensor makes the NFT Artwork available and makes no other warranty of any kind whatsoever, in particular express, implied, statutory or otherwise concerning it. The Licensor cannot be held liable to You, whatever the legal basis (including, in particular, negligence), due to latent defects or other defects, accuracy, or presence of errors known likely to be discovered in the NFT Artwork.
+6. Protection of the NFT Artwork
+You shall immediately notify the Licensor in the event of any actual suspected or threatened attempt to the NFT Artwork. Licensor will retain exclusive control over and conduct of all claims and proceedings. Nevertheless, if after a period of 1 month after the date of notification of the attempt by You to the Licensor, Licensor has failed to act or to determine the manner in which it will deal with such attempt or if it failed to answer, You will be authorized to pursue the unlawful acts that cause you damages, pursuant these acts (i) involve the creation of a copy of the NFT Artwork by any person other than the Licensor itself, except in the event of a persistent fork, and (ii) infringe the rights granted to You on the NFT Artwork, according to the article 2 of this Public License.
+7. Exclusivity
+The Licensor represents and warrants that it has not licensed, granted or assigned any rights of the Artwork except upon these Terms to the lawful possessor of the NFT. Moreover, the Licensor undertakes not to license, grant or assign the rights set forth herein to any third party and more precisely, not to issue, sell, transfer additional NFT granting any of the rights contained in the NFT Artwork.
+Notwithstanding the previous sentence, if the NFT was originally offered, sold or transferred by or on behalf of the Licensor under circumstances reasonably indicating that the NFT Artwork will be included in each of a series of NFTs which comply with the ERC-1155 standard (or a similar standard for creating NFTs series), then the Licensor represents and warrants that it has not licensed, granted or assigned and covenants that it will not license, grant or assign any rights to the NFT artwork except upon these Terms to the lawful possessors of the NFTs (including the associated NFTs) within such series.
+8. Duration and end
+This Public License applies for the duration of the copyright protection of the NFT Artwork, as it is
+established by law and international agreements and for any extension that might be adopted.
+9. Applicable Law, dispute resolution and jurisdiction 9.1 Applicable law
+The terms of this Public License shall be governed by and construed and interpreted in accordance with the lex electronica and lex cryptographia principles, including matters of validity, construction, effect, enforceability, performance and remedies.
+
+
+ In case the lex electronica and lex cryptographia do not contain the relevant stipulations and for matters concerning intellectual property, the terms of this Public License shall be governed by and construed and interpreted only in accordance with French law.
+9.2 Dispute resolution and Jurisdiction
+Any disputes that may arise regarding the validity, interpretation, execution or non-performance, interruption or termination of this contract, will be subject to mediation regulations and, in the event of failure thereof, to the CMAP arbitration rules to which the parties declare to adhere.
+Otherwise, any disputes arising from the agreement will be submitted to the competent courts.
+
